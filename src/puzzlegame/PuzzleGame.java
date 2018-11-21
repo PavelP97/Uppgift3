@@ -116,7 +116,6 @@ public class PuzzleGame extends JFrame implements ActionListener{
       FIX.setForeground(Color.orange);
 
       
-//      pack();
       setLayout(null);
       setSize(350,350);
       setVisible(true);
